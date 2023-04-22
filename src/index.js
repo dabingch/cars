@@ -4,7 +4,7 @@ import { Provider } from 'react-redux'
 import { store } from './store'
 import App from './App'
 
-import 'bulma/css/bulma.min.css'
+import 'bulma/css/bulma.css'
 import './styles.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
