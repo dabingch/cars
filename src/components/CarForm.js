@@ -51,7 +51,7 @@ function CarForm() {
 					</div>
 				</div>
 				<div className='field'>
-					<button className='is-link'>Submit</button>
+					<button className='button is-link'>Submit</button>
 				</div>
 			</form>
 		</div>
